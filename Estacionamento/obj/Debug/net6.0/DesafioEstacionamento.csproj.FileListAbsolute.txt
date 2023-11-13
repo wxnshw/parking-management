@@ -1,0 +1,15 @@
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\bin\Debug\net6.0\DesafioEstacionamento.exe
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\bin\Debug\net6.0\DesafioEstacionamento.deps.json
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\bin\Debug\net6.0\DesafioEstacionamento.runtimeconfig.json
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\bin\Debug\net6.0\DesafioEstacionamento.dll
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\bin\Debug\net6.0\DesafioEstacionamento.pdb
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.csproj.AssemblyReference.cache
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfo.cs
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.dll
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\refint\DesafioEstacionamento.dll
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.pdb
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\DesafioEstacionamento.genruntimeconfig.cache
+C:\Users\UPF GAMES\source\repos\Estacionamento\Estacionamento\obj\Debug\net6.0\ref\DesafioEstacionamento.dll
